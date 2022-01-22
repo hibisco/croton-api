@@ -1,0 +1,10 @@
+{
+  "name": "croton",
+  "version": "0.0.1",
+  "description": "A mobile app api for adopting pets",
+  "main": "index.js",
+  "repository": "https://github.com/hibisco/croton-api",
+  "author": "hibisco",
+  "license": "MIT",
+  "private": false
+}
